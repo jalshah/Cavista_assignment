@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jalpa_Cavista</string>
+    <string name="hint_text">Enter text to search images</string>
+    <string name="no_comments">No comments found</string>
+    <string name="no_images">No images found</string>
+    <string name="submit">Submit</string>
+    <string name="hint_comment">Enter comment</string>
+    <string name="poor_conn">\"Low network / Network connection lost, cannot load new items \"</string>
+</resources>
